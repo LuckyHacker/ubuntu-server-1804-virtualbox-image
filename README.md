@@ -21,4 +21,4 @@ Outputs file: `Ubuntu Server 18.04 template.ova`
 ### Output file
 
 * name: `Ubuntu Server 18.04 template.ova`
-* sha256: `e31a953406783c699641714c95268795666daa78aa3902ea96e06e9a4044cc58`
+* sha256: `c0d9bc537244acc3411ce4cdff0d7c1d35acaa49992ac53c0911af7175d01b97`

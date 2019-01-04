@@ -1,0 +1,1 @@
+copy /b splitted-files\* "Ubuntu Server 18.04 template.ova"
